@@ -100,9 +100,7 @@ export default function Profile() {
       dispatch(deleteUserFailure(error.message));
     }
   };
-
   const handleSignOut = async () => {
-
     try {
       dispatch(signOutUserStart())
       const res = await fetch('/api/auth/signout');
@@ -188,7 +186,6 @@ export default function Profile() {
         </span>
         <span onClick={handleSignOut} className='text-red-700 cursor-pointer'>Sign out</span>
       </div>
-
       <p className='text-red-700 mt-5'>{error ? error : ''}</p>
       <p className='text-green-700 mt-5'>
         {updateSuccess ? 'User is updated successfully!' : ''}
