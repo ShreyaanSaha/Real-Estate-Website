@@ -3,12 +3,12 @@ import React from 'react'
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Sahand Estate</h1>
-      <p className='mb-4 text-slate-700'>Shreyaanz Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.</p>
+      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Nest Nirvana</h1>
+      <p className='mb-4 text-slate-700'>Nest Nirvana Realty stands as a premier real estate agency committed to assisting clients in their pursuit of finding, selling, or renting properties in the most sought-after locales. Our proficient team of seasoned agents is unwaveringly dedicated to delivering exceptional service, ensuring a seamless and gratifying experience throughout the entire real estate process.</p>
       <p className='mb-4 text-slate-700'>
-      Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way.
-      </p>
-      <p className='mb-4 text-slate-700'>Our team of agents has a wealth of experience and knowledge in the real estate industry, and we are committed to providing the highest level of service to our clients. We believe that buying or selling a property should be an exciting and rewarding experience, and we are dedicated to making that a reality for each and every one of our clients.</p>
+      At Nest Nirvana, our mission is deeply rooted in helping clients realize their real estate aspirations. We aim to accomplish this by offering expert advice, personalized service, and an in-depth understanding of the local market dynamics. Whether you are on the lookout for your dream home, planning to sell a property, or seeking a rental space, we are steadfast in providing unwavering support at every juncture.</p>
+      <p className='mb-4 text-slate-700'>Our team of agents boasts a wealth of experience and profound knowledge within the real estate industry. We are resolute in our commitment to offering the highest caliber of service to our valued clients. We firmly believe that the journey of buying or selling a property should be an exhilarating and fulfilling experience, and at Nest Nirvana, we are dedicated to transforming this belief into a reality for each and every client we serve.</p>
+      <p>Embark on your real estate journey with Nest Nirvana Realty, where your property aspirations are not just met but exceeded with a touch of expertise, dedication, and personalized care.</p>
     </div>
   )
 }

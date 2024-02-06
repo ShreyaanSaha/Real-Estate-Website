@@ -58,6 +58,7 @@ export default function CreateListing() {
       setUploading(false);
     }
   };
+
   const storeImage = async (file) => {
     return new Promise((resolve, reject) => {
       const storage = getStorage(app);
@@ -82,6 +83,7 @@ export default function CreateListing() {
       );
     });
   };
+
   const handleRemoveImage = (index) => {
     setFormData({
       ...formData,
@@ -297,6 +299,7 @@ export default function CreateListing() {
                 />
                 <div className='flex flex-col items-center'>
                   <p>Discounted price</p>
+
                   {formData.type === 'rent' && (
                     <span className='text-xs'>($ / month)</span>
                   )}
