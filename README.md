@@ -1,3 +1,14 @@
+# Info
+
+### MERN (MongoDB, Express.js, React.js, Node.js)
+
+- Developed NestNirvana, a feature-rich MERN Real Estate Marketplace with image uploads, listing management, and robust search functionality.
+- Implemented Advanced Authentication (JWT, Firebase, Google OAuth) for a secure login, ensuring user data protection.
+- Created an intuitive Dashboard for efficient listing management, allowing easy addition and editing.
+- Enabled seamless CRUD Operations for property listings using MongoDB.
+- Employed Passport JS strategies for enhanced user authentication and data protection.
+- Utilized Redux Toolkit for streamlined global state management and efficient MongoDB queries.
+
 # Sign Up
 
 ![alt text](https://res.cloudinary.com/deqvxfp7f/image/upload/v1719560699/Projects/Real%20Estate%20Website/Screenshot_2024-06-28_021642_jmjacd.png)
