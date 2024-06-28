@@ -10,7 +10,7 @@
 
 # Home
 
-![alt text](https://res.cloudinary.com/deqvxfp7f/image/upload/v1719560698/Projects/Real%20Estate%20Website/Screenshot_2024-06-28_021718_fznkwe.png)
+![alt text](https://res.cloudinary.com/deqvxfp7f/image/upload/v1719560702/Projects/Real%20Estate%20Website/Screenshot_2024-06-28_020309_iwhuaa.png)
 ![alt text](https://res.cloudinary.com/deqvxfp7f/image/upload/v1719560693/Projects/Real%20Estate%20Website/Screenshot_2024-06-28_021912_jyxdt1.png)
 ![alt text](https://res.cloudinary.com/deqvxfp7f/image/upload/v1719560693/Projects/Real%20Estate%20Website/Screenshot_2024-06-28_021932_wblmx8.png)
 ![alt text](https://res.cloudinary.com/deqvxfp7f/image/upload/v1719560693/Projects/Real%20Estate%20Website/Screenshot_2024-06-28_021955_vfqnne.png)
